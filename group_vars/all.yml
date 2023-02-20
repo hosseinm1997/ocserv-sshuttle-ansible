@@ -1,0 +1,5 @@
+remote:
+  host: "remote ssh server ip/host"
+  port: 21
+  user: root
+proxy_port: "local ssh socks5 proxy port to the remote server"
